@@ -1,4 +1,4 @@
-<h1>Blockchain-Transaction-Analysis-in-Azure-Databricks</h1>
+<h1>Blockchain Transaction Analysis in Azure Databricks</h1>
 
 Detecting Suspicious Activity in a Simulated Crypto Network
 
@@ -7,7 +7,7 @@ This project simulates and analyses blockchain transaction data to detect suspic
 
 <h2>Tech Stack:</h2>
 
-- Databricks (Cloud-Based Analytics)
+- Azure Databricks (Cloud-Based Analytics)
 - Apache Spark (Big Data Processing)
 - SQL / PySpark (Querying & Analysis)
 
