@@ -3,7 +3,7 @@
 Detecting Suspicious Activity in a Simulated Crypto Network
 
 <h2>Project Overview</h2>
-This project simulates and analyses blockchain transaction data to detect suspicious patterns, such as illicit activity, mixer usage, and high-risk address clusters. Using Databricks and Spark SQL, I investigate entity behaviour, transaction flows, and potential money laundering tactics—mimicking the investigative techniques used in blockchain forensics.
+This project simulates and analyses blockchain transaction data to detect suspicious patterns, such as illicit activity, mixer usage, and high-risk address clusters. Using Databricks and Spark SQL, I investigate entity behaviour, transaction flows, and potential money laundering tactics mimicking the investigative techniques used in blockchain forensics.
 
 <h2>Tech Stack:</h2>
 
